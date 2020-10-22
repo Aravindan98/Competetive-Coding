@@ -1,1 +1,4 @@
 1) Stack reversal using recursion
+2) Sort a stack
+3)Delete consecutive same words in a sequence
+Given a sequence of n strings, the task is to check if any two similar words come together then they destroy each other then print the number of words left in the sequence after this pairwise destruction.
